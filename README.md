@@ -59,8 +59,6 @@ My focus is on writing efficient, optimized code and building systems that are s
 
 > _If it compiles, we’re emotionally stable._
 
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://github.com/haniigupta/haniigupta/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/haniigupta/haniigupta/output/github-contribution-grid-snake-dark.svg" />
 </p>
