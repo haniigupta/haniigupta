@@ -58,3 +58,6 @@ My focus is on writing efficient, optimized code and building systems that are s
 ---
 
 > _If it compiles, we’re emotionally stable._
+
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
