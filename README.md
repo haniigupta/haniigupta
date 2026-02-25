@@ -84,6 +84,3 @@ My focus is on writing efficient, optimized code and building systems that are s
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haniigupta/haniigupta/output/github-contribution-grid-snake-dark.svg" />
-</p>
